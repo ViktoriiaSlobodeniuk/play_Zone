@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/play_Zone/static/css/main.7acaea2f.css",
+    "main.js": "/play_Zone/static/js/main.07d3183d.js",
+    "index.html": "/play_Zone/index.html",
+    "main.7acaea2f.css.map": "/play_Zone/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/play_Zone/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
